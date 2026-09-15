@@ -55,6 +55,8 @@ Console.WriteLine($"Compte n°{compte.NumeroCompte}, titulaire : {compte.NomTitu
 compte.Crediter(500m);
 compte.Debiter(200m);
 compte.AfficherSolde();
+
+
 public class Compte
 {
     public decimal Solde { get; private set; }
