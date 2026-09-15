@@ -1,0 +1,14 @@
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\bin\Debug\net10.0\premier-exercice.exe
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\bin\Debug\net10.0\premier-exercice.deps.json
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\bin\Debug\net10.0\premier-exercice.runtimeconfig.json
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\bin\Debug\net10.0\premier-exercice.dll
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\bin\Debug\net10.0\premier-exercice.pdb
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\obj\Debug\net10.0\premier-exercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\obj\Debug\net10.0\premier-exercice.AssemblyInfoInputs.cache
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\obj\Debug\net10.0\premier-exercice.AssemblyInfo.cs
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\obj\Debug\net10.0\premier-exercice.csproj.CoreCompileInputs.cache
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\obj\Debug\net10.0\premier-exercice.dll
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\obj\Debug\net10.0\refint\premier-exercice.dll
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\obj\Debug\net10.0\premier-exercice.pdb
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\obj\Debug\net10.0\premier-exercice.genruntimeconfig.cache
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\obj\Debug\net10.0\ref\premier-exercice.dll
