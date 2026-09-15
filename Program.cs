@@ -48,6 +48,11 @@ static decimal Debiter(decimal solde, decimal montant)
     return solde - montant;
 }
 
+
+
+var compte = new Compte(1000m, 12345, "John Doe");
+Console.WriteLine($"Compte n°{compte.NumeroCompte}, titulaire : {compte.NomTitulaire}, solde : {compte.Solde}");
+
 public class Compte
 {
     public decimal Solde { get; private set; }
@@ -61,6 +66,3 @@ public class Compte
         NomTitulaire = nomTitulaire;
     }
 }
-
-var compte = new Compte(1000m, 12345, "John Doe");
-Console.WriteLine($"Compte n°{compte.NumeroCompte}, titulaire : {compte.NomTitulaire}, solde : {compte.Solde}");

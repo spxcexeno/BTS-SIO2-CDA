@@ -12,3 +12,4 @@ C:\Users\akoij\BTS-SIO2\dev\premier-exercice\obj\Debug\net10.0\refint\premier-ex
 C:\Users\akoij\BTS-SIO2\dev\premier-exercice\obj\Debug\net10.0\premier-exercice.pdb
 C:\Users\akoij\BTS-SIO2\dev\premier-exercice\obj\Debug\net10.0\premier-exercice.genruntimeconfig.cache
 C:\Users\akoij\BTS-SIO2\dev\premier-exercice\obj\Debug\net10.0\ref\premier-exercice.dll
+C:\Users\akoij\BTS-SIO2\dev\premier-exercice\obj\Debug\net10.0\premier-exercice.sourcelink.json
