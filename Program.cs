@@ -50,7 +50,7 @@ static decimal Debiter(decimal solde, decimal montant)
 
 
 
-var compte = new Compte(1000m, 12345, "John Doe");
+var compte = new Compte(12345, "John Doe");
 Console.WriteLine($"Compte n°{compte.NumeroCompte}, titulaire : {compte.NomTitulaire}, solde : {compte.Solde}");
 compte.Crediter(500m);
 compte.Debiter(200m);
@@ -63,9 +63,9 @@ public class Compte
     public decimal NumeroCompte { get; private set; }
     public string NomTitulaire { get; private set; }
 
-    public Compte(decimal solde, decimal numeroCompte, string nomTitulaire)
+    public Compte(int numeroCompte, string nomTitulaire)
     {
-        Solde = solde;
+        Solde = 0m;
         NumeroCompte = numeroCompte;
         NomTitulaire = nomTitulaire;
     }
