@@ -1,6 +1,4 @@
-﻿var compte1 = new Compte(1000m, "FR001", "Alice");
-var compte2 = compte1;
-
-compte2.Crediter(500m);
-
-Console.WriteLine(compte1.Solde);
+﻿var cc = new CompteCourant(1000m, "FR001", "Alice");
+cc.Crediter(200m);
+cc.Debiter(500m);
+cc.AfficherSolde(); // 700
